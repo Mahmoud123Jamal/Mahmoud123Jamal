@@ -150,45 +150,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  
-  <a href="https://github.com/Mahmoud123Jamal">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mahmoud123Jamal&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/Mahmoud123Jamal">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud123Jamal&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-  
-  <br/><br/>
-  
-  <a href="https://github.com/Mahmoud123Jamal">
-    <img height="165em" src="https://streak-stats.demolab.com/?user=Mahmoud123Jamal&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-  
-  <a href="https://github.com/Mahmoud123Jamal">
-    <img height="165em" src="https://github-profile-trophy.vercel.app/?username=Mahmoud123Jamal&theme=radical&no-bg=true&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
-  </a>
-  
-</div>
-
----
-
-### 📈 Activity Overview
-
-<div align="center">
-  
-  <img 
-    src="https://activity-graph.herokuapp.com/graph?username=Mahmoud123Jamal&theme=react-dark&hide_border=true&area=true" 
-    alt="GitHub Activity Graph" 
-    width="100%" 
-  />
-  
-</div>
-
----
 
 ### 🌍 Languages & Additional Information
 - **Languages:** Arabic (Native), English (Conversational)
