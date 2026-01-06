@@ -1,14 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  # تشغيل تلقائي كل 6 ساعات
   schedule:
-    - cron: "0 */6 * * *"
-  
-  # تشغيل يدوي من واجهة GitHub
+    - cron: "0 */6 * * *"  # كل 12 ساعة
   workflow_dispatch:
-  
-  # تشغيل عند تحديث الريبو
   push:
     branches:
       - main
@@ -17,30 +12,29 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # مهم: يسمح بالكتابة على الفرع
+      contents: write
     
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
 
-      - name: Generate GitHub Contribution Grid Snake
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
-        id: snake-gif
+        id: snake-svg
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          # تخصيص الألوان (اختياري)
+          # color_snake: '#58A6FF'
+          # color_dots: '#238636,#2EA043,#3FC950,#56D364'
 
-      - name: Deploy to Output Branch
+      - name: Upload to Output Branch
         uses: peaceiris/actions-gh-pages@v3
-        if: always()
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
-          publish_dir: ./dist
+          publish_dir: dist
           keep_files: true
           allow_empty_commit: true
