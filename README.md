@@ -36,9 +36,19 @@
 
 <div align="center">
   
-  <!-- استخدام skillicons.dev للشكل الأفضل -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,redux" /><br/>
-  <img src="https://skillicons.dev/icons?i=sass,bootstrap,docker,git,github,postman,figma,vscode,vercel" />
+  <!-- استخدام أسماء واضحة للأيقونات -->
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </p>
   
 </div>
 
@@ -48,68 +58,91 @@
 
 <div align="center">
   
-  <!-- صورة واحدة فقط للثعبان مع دعم الوضع الداكن -->
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/Mahmoud123Jamal/Mahmoud123Jamal/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/Mahmoud123Jamal/Mahmoud123Jamal/output/github-contribution-grid-snake.svg"
-    />
-    <img 
-      src="https://raw.githubusercontent.com/Mahmoud123Jamal/Mahmoud123Jamal/output/github-contribution-grid-snake.svg" 
-      alt="GitHub Contributions Snake Game" 
-      width="100%" 
-    />
-  </picture>
-  
-  <p><small>🐍 Watch the snake eat my contributions!</small></p>
+  <!-- صورة بسيطة بدون تعقيدات -->
+  <img 
+    src="https://raw.githubusercontent.com/Mahmoud123Jamal/Mahmoud123Jamal/output/github-contribution-grid-snake.svg" 
+    alt="GitHub Contributions Snake" 
+    width="100%" 
+  />
   
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 
 <div align="center">
   
-  <!-- إحصائيات GitHub مع تنسيق أفضل -->
-  <a href="https://github.com/Mahmoud123Jamal">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mahmoud123Jamal&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
+  <!-- 1. GitHub Stats مع رابط بديل -->
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mahmoud123Jamal&show_icons=true&theme=radical&hide_border=true" 
+    alt="GitHub Stats" 
+    width="45%"
+  />
   
-  <a href="https://github.com/Mahmoud123Jamal">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud123Jamal&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
+  <!-- 2. Top Languages مع رابط بديل -->
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mahmoud123Jamal&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages" 
+    width="45%"
+  />
   
-  <!-- GitHub Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud123Jamal&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
+  <br/><br/>
+  
+  <!-- 3. GitHub Streak مع رابط مباشر -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=Mahmoud123Jamal&theme=radical&hide_border=true" 
+    alt="GitHub Streak" 
+    width="45%"
+  />
+  
+  <!-- 4. GitHub Trophies -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Mahmoud123Jamal&theme=radical&no-bg=true&no-frame=true&row=1&column=4" 
+    alt="GitHub Trophies" 
+    width="45%"
+  />
+
+</div>
+
+---
+
+### 📈 GitHub Activity Graph
+
+<div align="center">
+  
+  <!-- GitHub Activity Graph مع رابط بديل -->
+  <img 
+    src="https://activity-graph.herokuapp.com/graph?username=Mahmoud123Jamal&theme=react-dark&hide_border=true&area=true" 
+    alt="GitHub Activity Graph" 
+    width="100%"
+  />
   
 </div>
 
 ---
 
-### 📈 Coding Activity
+### 👨‍💻 Programming Languages
 
 <div align="center">
   
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud123Jamal&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph" width="100%" />
+  <!-- WakaTime Stats (اختياري) -->
+  <!--
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahmoud123Jamal&theme=radical&hide_border=true" 
+    alt="WakaTime Stats" 
+    width="45%"
+  />
+  -->
   
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahmoud123Jamal&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <!-- بادئات المهارات -->
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  </p>
   
 </div>
 
@@ -121,13 +154,13 @@
   
   <p>
     <a href="https://linkedin.com/in/mahmoud-ghoraba-3186333a2" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:mahmood.ghoraba.eng@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://github.com/Mahmoud123Jamal" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
   
@@ -144,6 +177,9 @@
   
   <!-- GitHub Followers -->
   <img src="https://img.shields.io/github/followers/Mahmoud123Jamal?style=social" alt="GitHub Followers" />
+  
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/Mahmoud123Jamal?style=social" alt="GitHub Stars" />
   
   <p><em>Thanks for visiting my profile! 😊</em></p>
   
