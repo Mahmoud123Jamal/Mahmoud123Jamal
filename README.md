@@ -34,9 +34,13 @@
 
 <h3 align="left">🛠️ Tech Stack</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,redux,sass,bootstrap,docker,git,github,postman,figma,vscode" />
-</p>
+<div align="center">
+  
+  <!-- استخدام skillicons.dev للشكل الأفضل -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,redux" /><br/>
+  <img src="https://skillicons.dev/icons?i=sass,bootstrap,docker,git,github,postman,figma,vscode,vercel" />
+  
+</div>
 
 ---
 
@@ -44,14 +48,24 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Mahmoud123Jamal/Mahmoud123Jamal/blob/output/github-contribution-grid-snake.svg)
-  
-  <!-- للوضع الداكن -->
+  <!-- صورة واحدة فقط للثعبان مع دعم الوضع الداكن -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mahmoud123Jamal/Mahmoud123Jamal/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mahmoud123Jamal/Mahmoud123Jamal/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contributions Snake" src="https://github.com/Mahmoud123Jamal/Mahmoud123Jamal/blob/output/github-contribution-grid-snake.svg" width="100%" />
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Mahmoud123Jamal/Mahmoud123Jamal/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Mahmoud123Jamal/Mahmoud123Jamal/output/github-contribution-grid-snake.svg"
+    />
+    <img 
+      src="https://raw.githubusercontent.com/Mahmoud123Jamal/Mahmoud123Jamal/output/github-contribution-grid-snake.svg" 
+      alt="GitHub Contributions Snake Game" 
+      width="100%" 
+    />
   </picture>
+  
+  <p><small>🐍 Watch the snake eat my contributions!</small></p>
   
 </div>
 
@@ -61,19 +75,41 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud123Jamal&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
+  <!-- إحصائيات GitHub مع تنسيق أفضل -->
+  <a href="https://github.com/Mahmoud123Jamal">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mahmoud123Jamal&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud123Jamal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
+  <a href="https://github.com/Mahmoud123Jamal">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud123Jamal&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+  
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud123Jamal&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
   
 </div>
 
 ---
 
-### 📈 Activity Graph
+### 📈 Coding Activity
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud123Jamal&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud123Jamal&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph" width="100%" />
+  
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahmoud123Jamal&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   
 </div>
 
@@ -81,21 +117,34 @@
 
 ### 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/mahmoud-ghoraba-3186333a2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:mahmood.ghoraba.eng@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+<div align="center">
+  
+  <p>
+    <a href="https://linkedin.com/in/mahmoud-ghoraba-3186333a2" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mahmood.ghoraba.eng@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/Mahmoud123Jamal" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+  
+</div>
 
 ---
 
 <div align="center">
   
-  <p>⭐ <strong>Thanks for visiting my profile!</strong> ⭐</p>
+  <p>🚀 <strong>Always coding, always learning!</strong> 🚀</p>
   
+  <!-- Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=Mahmoud123Jamal&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/Mahmoud123Jamal?style=social" alt="GitHub Followers" />
+  
+  <p><em>Thanks for visiting my profile! 😊</em></p>
   
 </div>
