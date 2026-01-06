@@ -36,52 +36,6 @@
 
 ---
 
-### 💼 Work Experience
-
-#### **React Frontend Trainee** @ Information Technology Institute (ITI)
-*July 2022 – August 2022*
-
-- Built responsive UI components using HTML, CSS, JavaScript, and React
-- Worked with GitHub, Redux, Bootstrap, and React Router
-- Integrated APIs and applied UI/UX best practices
-- Developed reusable UI patterns and modern JavaScript components
-
----
-
-### 🏆 Featured Projects
-
-#### **1. Full-Stack AI Story Generator** | [GitHub](https://github.com/Mahmoud123Jamal)
-`Next.js` `React` `OpenAI` `Drizzle ORM` `Neon DB` `Clerk` `Tailwind 4`
-- Developed AI-powered SaaS using OpenAI API for personalized children's stories
-- Built type-safe backend with Drizzle ORM and Neon PostgreSQL
-- Implemented secure authentication via Clerk with social logins
-- Engineered searchable library with advanced filtering using React Hook Form
-
-#### **2. Full-Stack Doctor Appointment Booking System** | [GitHub](https://github.com/Mahmoud123Jamal)
-`MERN Stack` `MongoDB` `Express.js` `React` `Node.js`
-- Architected full-stack MERN app with Role-Based Access Control (RBAC)
-- Implemented RESTful APIs for appointments, departments, and users
-- Developed secure user authentication system
-
-#### **3. Full-Stack RecipeHub** | [GitHub](https://github.com/Mahmoud123Jamal)
-`React` `Node.js` `TypeScript` `Express.js` `MongoDB`
-- Built recipe-sharing platform with CRUD operations
-- Developed RESTful API with JWT authentication and image uploads
-- Implemented password encryption and protected routes
-
-#### **4. AI Chat Bot Application** | [GitHub](https://github.com/Mahmoud123Jamal)
-`React` `TypeScript` `Gemini API` `Fal.ai` `Context API`
-- Developed AI-powered chat app with real-time conversational responses
-- Integrated AI image generation with Fal.ai
-- Implemented dark/light mode and responsive UI design
-
-#### **5. Food Delivery Web Application** | [GitHub](https://github.com/Mahmoud123Jamal)
-`React` `TypeScript` `Redux Toolkit` `Bootstrap 5` `i18next`
-- Built multilingual food delivery platform (English/Arabic)
-- Implemented live search, dynamic filtering, and toast notifications
-- Developed fully responsive UI with dark/light mode
-
----
 
 ### 🎓 Education
 **Bachelor's Degree in Computer Science**  
