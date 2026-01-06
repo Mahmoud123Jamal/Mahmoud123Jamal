@@ -123,9 +123,9 @@
     <a href="mailto:mahmood.ghoraba.eng@gmail.com">
       <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="tel:+2001098836658">
-      <img src="https://img.shields.io/badge/Phone-Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-    </a>
+   <a href="https://wa.me/2001098836658?text=Hello%20Mahmoud%2C%20I%27m%20interested%20in%20your%20work" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
     <a href="https://drive.google.com/drive/folders/1ZJo7OfEwOwHc7ZvRYspsvTtQ2xWzVQif?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/badge/Resume-Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
     </a>
