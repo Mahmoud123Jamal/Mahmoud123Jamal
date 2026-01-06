@@ -137,21 +137,20 @@
 
 <div align="center">
   
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+the+future+with+code;MERN+%26+Next.js+Developer;Open+to+collaborations!;Thanks+for+visiting+😊" alt="Typing SVG" />
-    </a>
-  </p>
+  <p>✨ <strong>Thanks for visiting my profile!</strong> ✨</p>
   
   <p>
     <a href="https://github.com/Mahmoud123Jamal">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Mahmoud123Jamal&label=GitHub&query=%24.followers&logo=github&color=181717&labelColor=000" />
+      <img src="https://img.shields.io/github/followers/Mahmoud123Jamal?label=Follow&style=social&logo=github" />
     </a>
     <a href="https://github.com/Mahmoud123Jamal?tab=repositories">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Mahmoud123Jamal&label=Public%20Repos&query=%24.public_repos&logo=github&color=2ea043&labelColor=000" />
+      <img src="https://img.shields.io/badge/View%20Projects-10+-blue?style=flat&logo=github" />
+    </a>
+    <a href="https://github.com/Mahmoud123Jamal?tab=stars">
+      <img src="https://img.shields.io/github/stars/Mahmoud123Jamal?label=Stars&style=social&logo=github" />
     </a>
   </p>
   
-  <p><em>Feel free to reach out for collaboration! 🤝</em></p>
+  <p><em>Open to collaborations and exciting opportunities! 😊</em></p>
   
 </div>
