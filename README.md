@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🐍 Mahmoud Ghoraba's GitHub Profile
 
-<!--
-**Mahmoud123Jamal/Mahmoud123Jamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! This README features a snake animation that eats my contributions.
 
-Here are some ideas to get you started:
+![Snake Game](https://github.com/Mahmoud123Jamal/Mahmoud123Jamal/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+- Full-Stack Developer (MERN Stack & Next.js)
+- Based in Menoufia, Egypt
+- Passionate about building scalable web applications
+
+## 📫 Connect with me
+- [LinkedIn](https://linkedin.com/in/mahmoud-ghoraba-3186333a2)
+- Email: mahmood.ghoraba.eng@gmail.com
