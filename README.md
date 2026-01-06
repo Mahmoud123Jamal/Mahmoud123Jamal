@@ -137,14 +137,15 @@
 
 <div align="center">
   
-  <p>🚀 <strong>Building the future, one line of code at a time!</strong> 🚀</p>
+  <p>🚀 <strong>Transforming ideas into reality through code</strong> 🚀</p>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Mahmoud123Jamal&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/Mahmoud123Jamal?style=social" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/Mahmoud123Jamal?style=social" alt="GitHub Stars" />
+    <img src="https://img.shields.io/badge/👥_Followers-${count}-blue?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/⭐_Stars-${count}-yellow?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/📦_Repos-10+-green?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/📝_Commits-100+-orange?style=flat&logo=git" />
   </p>
   
-  <p><em>Let's build something amazing together! 😊</em></p>
+  <p><em>Always open to collaboration and new opportunities! 🤝</em></p>
   
 </div>
